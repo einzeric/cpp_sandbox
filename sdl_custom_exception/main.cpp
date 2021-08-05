@@ -28,7 +28,7 @@
  */
 int main(int argc, char* argv[])
 {
-	SDL_Window* window = NULL;
+    SDL_Window* window = NULL;
     
     int WINDOW_WIDTH = 800; //Change this to some ridiculous value to see exception happens. 20000 should be enough.
     int WINDOW_HEIGHT = 600;
@@ -56,5 +56,5 @@ int main(int argc, char* argv[])
     }
     SDL_DestroyWindow(window);
     SDL_Quit();
-	return 0;
+    return 0;
 }
