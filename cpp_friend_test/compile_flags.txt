@@ -1,0 +1,10 @@
+-ID:\toolshed\msys2\mingw64\include\c++\10.3.0
+-ID:\toolshed\msys2\mingw64\include\c++\10.3.0\x86_64-w64-mingw32
+-ID:\toolshed\msys2\mingw64\include\c++\10.3.0\backward
+-ID:\toolshed\msys2\mingw64\lib\gcc\x86_64-w64-mingw32\10.3.0\include
+-ID:\toolshed\msys2\mingw64\include
+-ID:\toolshed\msys2\mingw64\lib\gcc\x86_64-w64-mingw32\10.3.0\include-fixed
+-ID:\toolshed\msys2\mingw64\x86_64-w64-mingw32\include
+-ID:\coding_project\cpp_sandbox\cpp_friend_test
+-target
+x86_64-pc-windows-gnu
