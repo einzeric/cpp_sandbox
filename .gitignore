@@ -2,3 +2,7 @@
 compile_commands.json
 cpp_sandbox.workspace
 Makefile
+*Debug/*
+*compile_flags.txt
+*.mk
+*.project
