@@ -1,0 +1,5 @@
+Debug/*
+lib/*
+SDL2/*
+compile_flags.txt
+sdl_save_texture_to_file.*
